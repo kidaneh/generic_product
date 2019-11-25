@@ -1,4 +1,8 @@
-
+/*
+ * This program is for generic product
+ * Done by Kidane Hailemichael 
+ * Date 11/24/2019
+ */
 public class GenPro {
 
 	public static void main(String[] args) {
